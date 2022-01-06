@@ -1,6 +1,6 @@
 .pattern-bg[data-v-d9238ce6] {
     background: url(https://www.transparenttextures.com/patterns/asfalt-light.png) repeat;
-    background: url(https://media.discordapp.net/attachments/920718364261879821/928493756469104691/background.png?width=668&height=593) repeat;
+    background: url(https://media.discordapp.net/attachments/920718364261879821/928493756469104691/bg.png?width=668&height=593) repeat;
     width: 100%;
     height: 200vh;
     -webkit-animation: loopPattern-data-v-d9238ce6 80s linear infinite;
