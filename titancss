@@ -1,0 +1,26 @@
+.pattern-bg[data-v-d9238ce6] {
+    background: url(https://www.transparenttextures.com/patterns/asfalt-light.png) repeat;
+    background: url(https://media.discordapp.net/attachments/920718364261879821/928493756469104691/bg.png?width=668&height=593) repeat;
+    width: 100%;
+    height: 200vh;
+    -webkit-animation: loopPattern-data-v-d9238ce6 80s linear infinite;
+    animation: loopPattern-data-v-d9238ce6 200s linear infinite;
+    opacity: 1
+}
+
+.background[data-v-d9238ce6] {
+    position: absolute !important;
+    height: 100vh !important;
+    width: 100% !important;
+    pointer-events: none !important;
+    background: #000000 !important;
+    background: #0000 !important;
+}
+
+.bg-radial[data-v-d9238ce6] {
+    position: absolute !important;
+    height: 100vh !important;
+    width: 100% !important;
+    top: 0 !important;
+    background: #0000 !important;
+}
